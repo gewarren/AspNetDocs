@@ -14,7 +14,7 @@ ms.custom: sfi-image-nochange
 
 by [Rick Anderson](https://twitter.com/RickAndMSFT)
 
-> This tutorial shows you how to build an ASP.NET MVC 5 web app with Two-Factor Authentication. You should complete [Create a secure ASP.NET MVC 5 web app with log in, email confirmation and password reset](create-an-aspnet-mvc-5-web-app-with-email-confirmation-and-password-reset.md) before proceeding. You can download the completed application [here](https://code.msdn.microsoft.com/MVC-5-with-2FA-email-8f26d952). The download contains debugging helpers that let you test email confirmation and SMS without setting up an email or SMS provider.
+> This tutorial shows you how to build an ASP.NET MVC 5 web app with Two-Factor Authentication. You should complete [Create a secure ASP.NET MVC 5 web app with log in, email confirmation and password reset (archived)](https://web.archive.org/web/20161229005722/https://www.asp.net/mvc/overview/security/create-an-aspnet-mvc-5-web-app-with-email-confirmation-and-password-reset) before proceeding. You can download the completed application [here](https://code.msdn.microsoft.com/MVC-5-with-2FA-email-8f26d952). The download contains debugging helpers that let you test email confirmation and SMS without setting up an email or SMS provider.
 > 
 > This tutorial was written by [Rick Anderson](/archive/blogs/rickAndy/) ( Twitter: [@RickAndMSFT](https://twitter.com/RickAndMSFT) ).
 
@@ -29,7 +29,7 @@ by [Rick Anderson](https://twitter.com/RickAndMSFT)
 Start by installing and running [Visual Studio Express 2013 for Web](https://visualstudio.microsoft.com/vs/older-downloads/) or higher.
 
 > [!NOTE]
-> Warning: You should complete [Create a secure ASP.NET MVC 5 web app with log in, email confirmation and password reset](create-an-aspnet-mvc-5-web-app-with-email-confirmation-and-password-reset.md) before proceeding. You must install [Visual Studio 2013 Update 3](https://go.microsoft.com/fwlink/?LinkId=390465) or higher to complete this tutorial.
+> Warning: You should complete [Create a secure ASP.NET MVC 5 web app with log in, email confirmation and password reset (archived)](https://web.archive.org/web/20161229005722/https://www.asp.net/mvc/overview/security/create-an-aspnet-mvc-5-web-app-with-email-confirmation-and-password-reset) before proceeding. You must install [Visual Studio 2013 Update 3](https://go.microsoft.com/fwlink/?LinkId=390465) or higher to complete this tutorial.
 
 1. Create a new ASP.NET Web project and select the MVC template. Web Forms also supports ASP.NET Identity, so you could follow similar steps in a web forms app.  
     ![Screenshot that shows the New A S P dot NET Project window. The default authentication, Individual User Accounts, is highlighted.](aspnet-mvc-5-app-with-sms-and-email-two-factor-authentication/_static/image1.png)

@@ -281,7 +281,7 @@ Figure 17 shows the contents of the `GuestbookComments` table after two comments
 In addition to leaving comments, a user visiting the `Guestbook.aspx` page should also be able to view the guestbook's existing comments. To accomplish this, add a ListView control named `CommentList` to the bottom of the page.
 
 > [!NOTE]
-> The ListView control is new to ASP.NET version 3.5. It is designed to display a list of items in a very customizable and flexible layout, yet still offer built-in editing, inserting, deleting, paging, and sorting functionality like the GridView. If you are using ASP.NET 2.0, you will need to use the DataList or Repeater control instead. For more information on using the ListView, see [Scott Guthrie](https://weblogs.asp.net/scottgu/)'s blog entry, [The asp:ListView Control](https://weblogs.asp.net/scottgu/archive/2007/08/10/the-asp-listview-control-part-1-building-a-product-listing-page-with-clean-css-ui.aspx), and my article, [Displaying Data with the ListView Control](/previous-versions/aspnet/bb515102(v=vs.100)).
+> The ListView control is new to ASP.NET version 3.5. It is designed to display a list of items in a very customizable and flexible layout, yet still offer built-in editing, inserting, deleting, paging, and sorting functionality like the GridView. If you are using ASP.NET 2.0, you will need to use the DataList or Repeater control instead. For more information on using the ListView, see [Scott Guthrie](https://weblogs.asp.net/scottgu/)'s blog entry, [The asp:ListView Control](https://weblogs.asp.net/scottgu/the-asp-listview-control-part-1-building-a-product-listing-page-with-clean-css-ui/), and my article, [Displaying Data with the ListView Control](/previous-versions/aspnet/bb515102(v=vs.100)).
 
 Open the ListView's Smart Tag and, from the Choose Data Source drop-down list, bind the control to a new data source. As we saw in Step 2, this will launch the Data Source Configuration Wizard. Select the Database icon, name the resulting SqlDataSource `CommentsDataSource`, and click OK. Next, select the `SecurityTutorialsConnectionString` connection string from the drop-down list and click Next.
 
@@ -450,19 +450,19 @@ Happy Programming!
 For more information on the topics discussed in this tutorial, refer to the following resources:
 
 - [Accessing and Updating Data in ASP.NET 2.0](/aspnet/web-forms/overview/data-access/accessing-the-database-directly-from-an-aspnet-page/inserting-updating-and-deleting-data-with-the-sqldatasource-vb)
-- [ASP.NET 2.0 Wizard Control](https://weblogs.asp.net/scottgu/archive/2006/02/21/438732.aspx)
+- [ASP.NET 2.0 Wizard Control](https://weblogs.asp.net/scottgu/438732/)
 - [Creating a Step-by-Step User Interface with the ASP.NET 2.0 Wizard Control](/archive/msdn-magazine/2004/november/cutting-edge-the-asp-net-2-0-wizard-control)
 - [Creating Custom DataSource Control Parameters](/previous-versions/aspnet/xt50s8kz(v=vs.100))
 - [Customizing the CreateUserWizard Control](/previous-versions/aspnet/ms178342(v=vs.100))
-- [DetailsView Control QuickStarts](https://quickstarts.asp.net/QuickStartv20/aspnet/doc/ctrlref/data/detailsview.aspx)
+- [DetailsView Control QuickStarts (archived)](https://web.archive.org/web/20160830213842/http://quickstarts.asp.net:80/QuickStartv20/aspnet/doc/ctrlref/data/detailsview.aspx)
 - [Displaying Data with the ListView Control](/previous-versions/aspnet/bb398790(v=vs.100))
 - [Dissecting the Validation Controls in ASP.NET 2.0](/previous-versions/aspnet/debza5t0(v=vs.100))
 - [Editing Insert and Deleting Data](../../data-access/editing-inserting-and-deleting-data/an-overview-of-inserting-updating-and-deleting-data-cs.md)
 - [Form Validation in ASP.NET](/aspnet/web-pages/overview/ui-layouts-and-themes/validating-user-input-in-aspnet-web-pages-sites)
-- [Gathering Custom User Registration Information](https://weblogs.asp.net/scottgu/archive/2006/07/05/Tip_2F00_Trick_3A00_-Gathering-Custom-User-Registration-Information.aspx)
+- [Gathering Custom User Registration Information](https://weblogs.asp.net/scottgu/Tip_2F00_Trick_3A00_-Gathering-Custom-User-Registration-Information/)
 - [Profiles in ASP.NET 2.0](http://www.odetocode.com/Articles/440.aspx)
-- [The asp:ListView Control](https://weblogs.asp.net/scottgu/archive/2007/08/10/the-asp-listview-control-part-1-building-a-product-listing-page-with-clean-css-ui.aspx)
-- [User Profiles QuickStart](https://quickstarts.asp.net/QuickStartv20/aspnet/doc/profile/default.aspx)
+- [The asp:ListView Control](https://weblogs.asp.net/scottgu/the-asp-listview-control-part-1-building-a-product-listing-page-with-clean-css-ui/)
+- [User Profiles QuickStart (archived)](https://web.archive.org/web/20160612081527/http://quickstarts.asp.net/QuickStartv20/aspnet/doc/profile/default.aspx)
 
 ### About the Author
 

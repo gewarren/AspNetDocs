@@ -203,7 +203,7 @@ Happy Programming!
 For more information on the topics discussed in this tutorial, refer to the following resources:
 
 - [SqlDataSource Control Overview](https://msdn.microsoft.com/library/dz12d98w.aspx)
-- [ASP.NET Quickstart Tutorials: The SqlDataSource Control](https://quickstarts.asp.net/QuickStartv20/aspnet/doc/ctrlref/data/sqldatasource.aspx)
+- [ASP.NET Quickstart Tutorials: The SqlDataSource Control (archived)](https://web.archive.org/web/20160907235404/http://quickstarts.asp.net:80/quickstartv20/aspnet/doc/ctrlref/data/sqldatasource.aspx)
 - [The Web.config `<connectionStrings>` Element](https://msdn.microsoft.com/library/bf7sd233.aspx)
 - [Database Connection String Reference](http://www.connectionstrings.com/)
 

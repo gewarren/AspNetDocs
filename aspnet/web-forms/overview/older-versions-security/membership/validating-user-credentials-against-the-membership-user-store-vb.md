@@ -270,7 +270,7 @@ For more information on the topics discussed in this tutorial, refer to the foll
 - [Examining ASP.NET 2.0's Membership, Roles, and Profile](/aspnet/web-forms/overview/older-versions-security/roles/creating-and-managing-roles-vb)
 - [How To: Create an ASP.NET Login Page](https://msdn.microsoft.com/library/ms178331.aspx)
 - [Login Control Technical Documentation](https://msdn.microsoft.com/library/system.web.ui.webcontrols.login.aspx)
-- [Using the Login Controls](https://quickstarts.asp.net/QuickStartv20/aspnet/doc/security/login.aspx)
+- [Using the Login Controls (archived)](https://web.archive.org/web/20160930021055/http://quickstarts.asp.net:80/QuickStartv20/aspnet/doc/security/login.aspx)
 
 ### About the Author
 

@@ -139,7 +139,8 @@ In this tutorial, you have added routes for categories and products. You have le
 ## Additional Resources
 
 [ASP.NET Friendly URLs](https://www.nuget.org/packages/Microsoft.AspNet.FriendlyUrls/)  
-[Deploy a Secure ASP.NET Web Forms App with Membership, OAuth, and SQL Database to Azure App Service](https://azure.microsoft.com/documentation/articles/web-sites-dotnet-deploy-aspnet-webforms-app-membership-oauth-sql-database/)  
+[Deploy a Secure ASP.NET Web Forms App with Membership, OAuth, and SQL Database to Azure App Service (archived)](https://web.archive.org/web/20150504064847/http://azure.microsoft.com:80/en-us/documentation/articles/web-sites-dotnet-deploy-aspnet-webforms-app-membership-oauth-sql-database/)
+
 [Microsoft Azure - Free Trial](https://azure.microsoft.com/pricing/purchase-options/azure-account?cid=msft_learn)
 
 > [!div class="step-by-step"]

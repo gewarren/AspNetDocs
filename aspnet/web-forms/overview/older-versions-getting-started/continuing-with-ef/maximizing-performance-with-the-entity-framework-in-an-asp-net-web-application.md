@@ -248,7 +248,7 @@ This completes the introduction to improving performance in an ASP.NET web appli
 - [EF Merge Options and Compiled Queries](/archive/blogs/dsimmons/ef-merge-options-and-compiled-queries). Blog post that explains unexpected behaviors of compiled queries and merge options such as `NoTracking`. If you plan to use compiled queries or manipulate merge option settings in your application, read this first.
 - [Entity Framework-related posts in the Data and Modeling Customer Advisory Team blog](https://blogs.msdn.com/b/dmcat/archive/tags/entity+framework/). Includes posts on compiled queries and using the Visual Studio 2010 Profiler to discover performance issues.
 - [ASP.NET State Management Recommendations](https://msdn.microsoft.com/library/z1hkazw7.aspx).
-- [Using the Entity Framework and the ObjectDataSource: Custom Paging](http://geekswithblogs.net/Frez/articles/using-the-entity-framework-and-the-objectdatasource-custom-paging.aspx). Blog post that builds on the ContosoUniversity application created in these tutorials to explain how to implement paging in the *Departments.aspx* page.
+- [Using the Entity Framework and the ObjectDataSource: Custom Paging (archived)](https://web.archive.org/web/20191017174146/http://geekswithblogs.net/Frez/articles/using-the-entity-framework-and-the-objectdatasource-custom-paging.aspx). Blog post that builds on the ContosoUniversity application created in these tutorials to explain how to implement paging in the *Departments.aspx* page.
 
 The next tutorial reviews some of the important enhancements to the Entity Framework that are new in version 4.
 

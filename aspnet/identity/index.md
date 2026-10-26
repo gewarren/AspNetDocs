@@ -18,7 +18,7 @@ msc.type: categoryindex
         - [Introduction to ASP.NET Identity](overview/getting-started/introduction-to-aspnet-identity.md)
         - [ASP.NET Identity Recommended Resources](overview/getting-started/aspnet-identity-recommended-resources.md)
         - [Adding ASP.NET Identity to an Empty or Existing Web Forms Project](overview/getting-started/adding-aspnet-identity-to-an-empty-or-existing-web-forms-project.md)
-        - [Developing ASP.NET Apps with Azure Active Directory](overview/getting-started/developing-aspnet-apps-with-windows-azure-active-directory.md)
+        - [Developing ASP.NET Apps with Azure Active Directory (archived)](https://web.archive.org/web/20190922103200/https://docs.microsoft.com/en-us/aspnet/identity/overview/getting-started/developing-aspnet-apps-with-windows-azure-active-directory)
         - [ASP.NET Identity: Using MySQL Storage with an EntityFramework MySQL Provider (C#)](overview/getting-started/aspnet-identity-using-mysql-storage-with-an-entityframework-mysql-provider.md)
     - [Features & API](overview/features-api/index.md)
 

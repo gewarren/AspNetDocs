@@ -240,7 +240,7 @@ The following shows the updated code for the `ProductsCL` class s `AddCacheItem`
 Test this new code out. Now changes to the `Products`, `Categories`, or `Suppliers` tables cause the cached data to be evicted. Moreover, the `ProductsCL` class s `UpdateProduct` method, which is called when editing a product through the GridView, evicts the `MasterCacheKeyArray` cache dependency, which causes the cached `ProductsDataTable` to be evicted and the data to be re-retrieved on the next request.
 
 > [!NOTE]
-> SQL cache dependencies can also be used with [output caching](https://quickstarts.asp.net/QuickStartv20/aspnet/doc/caching/output.aspx). For a demonstration of this functionality, see: [Using ASP.NET Output Caching with SQL Server](https://msdn.microsoft.com/library/e3w8402y(VS.80).aspx).
+> SQL cache dependencies can also be used with [output caching (archived)](https://web.archive.org/web/20160612152033/http://quickstarts.asp.net/QuickStartv20/aspnet/doc/caching/output.aspx). For a demonstration of this functionality, see: [Using ASP.NET Output Caching with SQL Server](https://msdn.microsoft.com/library/e3w8402y(VS.80).aspx).
 
 ## Summary
 

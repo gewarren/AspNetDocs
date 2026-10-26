@@ -309,7 +309,7 @@ Thanks for following along. I hope this set of tutorials helped you become more 
 
 ## Next Steps
 
-Learn more about deploying your web application to Microsoft Azure, see [Deploy a Secure ASP.NET Web Forms App with Membership, OAuth, and SQL Database to an Azure Web Site](https://azure.microsoft.com/documentation/articles/web-sites-dotnet-deploy-aspnet-webforms-app-membership-oauth-sql-database/).
+Learn more about deploying your web application to Microsoft Azure, see [Deploy a Secure ASP.NET Web Forms App with Membership, OAuth, and SQL Database to an Azure Web Site (archived)](https://web.archive.org/web/20150504064847/http://azure.microsoft.com:80/en-us/documentation/articles/web-sites-dotnet-deploy-aspnet-webforms-app-membership-oauth-sql-database/).
 
 ## Free Trial
 
@@ -326,7 +326,7 @@ Learn more about deploying your web application to Microsoft Azure, see [Deploy 
 I would like to thank the following people who made significant contributions to the content of this tutorial series:
 
 - [Alberto Poblacion, MVP &amp; MCT, Spain](https://mvp.microsoft.com/mvp/Alberto%20Poblacion%20Bolano-36772)
-- [Alex Thissen, Netherlands](http://blog.alexthissen.nl/) (twitter: [@alexthissen](http://twitter.com/alexthissen))
+- Alex Thissen, Netherlands (twitter: [@alexthissen](http://twitter.com/alexthissen))
 - [Andre Tournier, USA](https://andret503.wordpress.com/)
 - Apurva Joshi, Microsoft
 - [Bojan Vrhovnik, Slovenia](http://twitter.com/bvrhovnik)
@@ -340,7 +340,7 @@ I would like to thank the following people who made significant contributions to
 - [Paul Cociuba, Microsoft](http://linqto.me/Links/pcociuba)
 - [Paulo Morgado, Portugal](http://paulomorgado.net/)
 - [Pranav Rastogi, Microsoft](/archive/blogs/pranav_rastogi/)
-- [Tim Ammann, Microsoft](https://blogs.iis.net/timamm/default.aspx)
+- [Tim Ammann, Microsoft](https://blogs.iis.net/timamm)
 - [Tom Dykstra, Microsoft](/archive/blogs/aspnetue/)
 
 ## Community Contributions

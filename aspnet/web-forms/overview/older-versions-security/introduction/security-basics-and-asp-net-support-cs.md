@@ -159,7 +159,7 @@ Happy Programming!
 
 For more information on the topics discussed in this tutorial, refer to the following resources:
 
-- [ASP.NET 2.0 Membership, Roles, Forms Authentication, and Security Resources](https://weblogs.asp.net/scottgu/ASP.NET-2.0-Membership_2C00_-Roles_2C00_-Forms-Authentication_2C00_-and-Security-Resources-)
+- [ASP.NET 2.0 Membership, Roles, Forms Authentication, and Security Resources (archived)](https://web.archive.org/web/20150823003000/http://weblogs.asp.net:80/scottgu/ASP.NET-2.0-Membership_2C00_-Roles_2C00_-Forms-Authentication_2C00_-and-Security-Resources-)
 - [ASP.NET 2.0 Security Guidelines](https://msdn.microsoft.com/library/ms998258.aspx)
 - [ASP.NET Authentication](https://msdn.microsoft.com/library/eeyk640h.aspx)
 - [ASP.NET Authorization](https://msdn.microsoft.com/library/wce3kxhd.aspx)
