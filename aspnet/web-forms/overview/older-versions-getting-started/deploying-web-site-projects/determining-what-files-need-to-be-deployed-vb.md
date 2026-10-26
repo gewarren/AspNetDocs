@@ -163,7 +163,6 @@ For more information on the topics discussed in this tutorial, refer to the foll
 - [Examining ASP.NET's Site Navigation](/previous-versions/aspnet/e468hxky(v=vs.100))
 - [Introduction to Web Application Projects](https://msdn.microsoft.com/library/aa730880.aspx)
 - [Master Page Tutorials](../master-pages/creating-a-site-wide-layout-using-master-pages-cs.md)
-- [Sharing Code Between Pages (archived)](https://web.archive.org/web/20160612134350/http://quickstarts.asp.net/QuickStartv20/aspnet/doc/pages/code.aspx)
 - [Using a Custom Base Class For Your ASP.NET Pages' Code-Behind Classes](/previous-versions/aspnet/ms178138(v=vs.100))
 - [Visual Studio 2005's Web Site Project System: What Is It and Why Did We Do It?](https://weblogs.asp.net/scottgu/423201/)
 - [Walkthrough: Converting a Web Site Project to a Web Application Project in Visual Studio](https://msdn.microsoft.com/library/aa983476.aspx)
@@ -171,4 +170,3 @@ For more information on the topics discussed in this tutorial, refer to the foll
 > [!div class="step-by-step"]
 > [Previous](asp-net-hosting-options-vb.md)
 > [Next](deploying-your-site-using-an-ftp-client-vb.md)
-

@@ -68,7 +68,7 @@ Be sure to use the above pattern when accessing data from the cache. The followi
 The difference in this second, incorrect code snippet is that rather than storing a reference to the cached item in a local variable, the data cache is accessed directly in the conditional statement *and* in the `return`. Imagine that when this code is reached, `Cache["key"]` is non-`null`, but before the `return` statement is reached, the system evicts *key* from the cache. In this rare case, the code will return a `null` value rather than an object of the expected type.
 
 > [!NOTE]
-> The data cache is thread-safe, so you don t need to synchronize thread access for simple reads or writes. However, if you need to perform multiple operations on data in the cache that need to be atomic, you are responsible for implementing a lock or some other mechanism to ensure thread safety. See [Synchronizing Access to the ASP.NET Cache (archived)](https://web.archive.org/web/20081121151946/http://www.ddj.com/184406369) for more information.
+> The data cache is thread-safe, so you don t need to synchronize thread access for simple reads or writes. However, if you need to perform multiple operations on data in the cache that need to be atomic, you are responsible for implementing a lock or some other mechanism to ensure thread safety.
 
 An item can be programmatically evicted from the data cache using the [`Remove` method](https://msdn.microsoft.com/library/system.web.caching.cache.remove.aspx) like so:
 

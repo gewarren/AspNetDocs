@@ -276,7 +276,7 @@ One way to hide the View button for anonymous users is to convert the GridView f
 
 [!code-aspx[Main](user-based-authorization-cs/samples/sample18.aspx)]
 
- To: 
+ To:
 
 [!code-aspx[Main](user-based-authorization-cs/samples/sample19.aspx)]
 
@@ -359,7 +359,6 @@ For more information on the topics discussed in this tutorial, refer to the foll
 - [Changes Between IIS6 and IIS7 Security](https://www.iis.net/articles/view.aspx/IIS7/Managing-IIS7/Configuring-Security/Changes-between-IIS6-and-IIS7-Security)
 - [Configuring Specific Files and Subdirectories](https://msdn.microsoft.com/library/6hbkh9s7.aspx)
 - [Limiting Data Modification Functionality Based on the User](../../data-access/editing-inserting-and-deleting-data/limiting-data-modification-functionality-based-on-the-user-cs.md)
-- [LoginView Control QuickStarts (archived)](https://web.archive.org/web/20160926122542/http://quickstarts.asp.net:80/quickstartv20/aspnet/doc/ctrlref/login/loginview.aspx)
 - [Understanding IIS7 URL Authorization](https://www.iis.net/articles/view.aspx/IIS7/Managing-IIS7/Configuring-Security/URL-Authorization/Understanding-IIS7-URL-Authorization)
 - [`UrlAuthorizationModule` Technical Documentation](https://msdn.microsoft.com/library/system.web.security.urlauthorizationmodule.aspx)
 - [Working with Data in ASP.NET 2.0](../../data-access/index.md)

@@ -231,7 +231,6 @@ For more information on the topics discussed in this tutorial, refer to the foll
 - [How To: Use Role Manager in ASP.NET 2.0](https://msdn.microsoft.com/library/ms998314.aspx)
 - [Role Providers](https://msdn.microsoft.com/library/aa478950.aspx)
 - [Technical documentation for the `<roleManager>` Element](https://msdn.microsoft.com/library/ms164660.aspx)
-- [Using the Membership and Role Manager APIs (archived)](https://web.archive.org/web/20160628231622/http://quickstarts.asp.net:80/quickstartv20/aspnet/doc/security/membership.aspx)
 
 ### About the Author
 
